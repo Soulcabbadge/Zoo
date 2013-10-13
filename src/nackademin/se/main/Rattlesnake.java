@@ -13,7 +13,7 @@ public class Rattlesnake extends Animal {
 
 	public void sound() {
 		
-		System.out.println("Hisssss!");
+		System.out.println("Hissss!");
 		
 	}
 	
